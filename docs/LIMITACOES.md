@@ -35,6 +35,6 @@ O dataset inclui 5.790 exclusões e 21 merges ignorados pelo framework, com moti
 
 As pastas e tabelas desta publicação incluem somente os 43 projetos processados. Os números dos candidatos não processados aparecem apenas como contexto da redução da coleta.
 
-Os históricos Git e todas as versões JavaScript não foram incluídos em massa, para evitar duplicação e pressão adicional de disco. O responsável pela análise precisa obter os objetos correspondentes aos SHAs publicados. Não apagar os clones preservados sem manter outra forma de recuperar esses objetos.
+Após o encerramento da mineração, as quatro versões das 10.162 amostras foram exportadas diretamente dos objetos Git para 61 ZIPs, sem criar todos os arquivos soltos no disco. A exportação ocupa 337.066.328 bytes compactados; os arquivos JavaScript representam 1.279.920.984 bytes descompactados. Esta etapa não amplia a amostra nem retoma a mineração. Os históricos Git completos e as dependências dos projetos não integram os pacotes. Para reconstruir o ambiente completo de execução, pode ser necessário obter o projeto de origem.
 
 Os comandos de consulta foram normalizados quanto a caminhos locais. Identificadores e caminhos reais dentro dos projetos foram mantidos. Nenhuma análise OA ou dataflow foi realizada nesta fase.

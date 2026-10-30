@@ -1,5 +1,7 @@
 # Recuperar Base Left Right e Merge em outro computador
 
+> **Atalho:** as quatro versões já foram exportadas em [`versoes/`](../versoes). Para usá-las sem clonar os históricos, siga [QUATRO_VERSOES_PRONTAS.md](QUATRO_VERSOES_PRONTAS.md). Este guia descreve a reprodução independente da extração.
+
 ## Não é necessário acessar o computador da autora
 
 O dataset pode ser usado por outro integrante da pesquisa em seu próprio computador. Não é necessário acesso remoto ao notebook da autora, à sua conta do sistema ou aos seus arquivos pessoais.

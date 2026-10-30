@@ -1,10 +1,10 @@
 # Dataset de cenários de merge em JavaScript
 
-Metadados e resultados de mineração de arquivos JavaScript alterados pelas duas contribuições de um merge. A coleta foi realizada em 29 e 30 de outubro de 2026 com o **MiningFramework**, inspirada no procedimento de Amanda Moraes, Paulo Borba e Léuson Da Silva em *Semantic conflict detection via dynamic analysis* (SBLP 2024).
+Metadados, resultados de mineração e quatro versões históricas de arquivos JavaScript alterados pelas duas contribuições de um merge. A coleta foi realizada em 29 e 30 de outubro de 2026 com o **MiningFramework**, inspirada no procedimento de Amanda Moraes, Paulo Borba e Léuson Da Silva em *Semantic conflict detection via dynamic analysis* (SBLP 2024).
 
 O escopo deste repositório é **mineração e validação estrutural**. Não foram executadas análises de overriding assignments (OA), dataflow ou classificação de conflitos semânticos.
 
-> **Vai continuar a análise em outro computador?** Não é necessário acessar o computador da autora. Baixe este dataset, obtenha os históricos públicos dos projetos e recupere as quatro versões pelos SHAs registrados. O passo a passo está no [guia para recuperar Base, Left, Right e Merge](docs/RECUPERAR_QUATRO_VERSOES.md).
+> **As quatro versões estão prontas.** Os pacotes em [`versoes/`](versoes) contêm Base, Left, Right e Merge de todas as 10.162 amostras. Seu colega pode baixar e descompactar esses arquivos no próprio computador, sem clonar os projetos de origem. Veja [como abrir os pacotes](docs/QUATRO_VERSOES_PRONTAS.md).
 
 ## Autoria e apoio acadêmico
 
@@ -43,6 +43,7 @@ Os 32 candidatos não clonados pertencem à etapa anterior. As listas individuai
 
 ## Onde começar
 
+- [`versoes/`](versoes): pacotes com os quatro arquivos de cada amostra e seus metadados.
 - [`dataset/project_cases.csv`](dataset/project_cases.csv): as 10.162 amostras validadas.
 - [`dataset/projetos.csv`](dataset/projetos.csv): os 43 projetos, SHAs congelados, contagens e tempos.
 - [`dataset/projetos_com_amostras.csv`](dataset/projetos_com_amostras.csv): os 34 que forneceram amostras.
@@ -52,7 +53,8 @@ Os 32 candidatos não clonados pertencem à etapa anterior. As listas individuai
 
 ## Documentação
 
-- [Começar em outro computador e recuperar as quatro versões](docs/RECUPERAR_QUATRO_VERSOES.md)
+- [Abrir as quatro versões já exportadas](docs/QUATRO_VERSOES_PRONTAS.md)
+- [Reproduzir a extração a partir dos históricos Git](docs/RECUPERAR_QUATRO_VERSOES.md)
 - [Metodologia da construção](docs/METODOLOGIA.md)
 - [Ferramentas e adaptações](docs/FERRAMENTAS.md)
 - [Execução pelo PowerShell](docs/EXECUCAO.md)
@@ -70,11 +72,14 @@ python .\scripts\verificar_dataset.py
 
 O verificador confere os hashes dos arquivos publicados e as contagens do dataset. Não executa mineração ou código dos projetos.
 
-## Recuperação dos arquivos
+## Quatro versões prontas e reprodução da extração
+
+Para visualizar uma amostra sem baixar os pacotes, abra o [exemplo com os quatro arquivos](exemplo_quatro_versoes). Os ZIPs completos estão em [`versoes/`](versoes).
+
 
 O [guia de recuperação](docs/RECUPERAR_QUATRO_VERSOES.md#exemplo-real-com-links-para-as-quatro-versões) contém um exemplo com links para abrir Base, Left, Right e Merge diretamente no GitHub.
 
-O dataset publica metadados, não cópias completas dos históricos Git nem uma exportação em massa das quatro versões. Os caminhos dos exemplos são pastas do computador de quem executar os comandos; não apontam para um acesso remoto ao notebook da autora.
+A exportação completa das quatro versões está em [`versoes/`](versoes). Os comandos abaixo são uma alternativa para reproduzir a extração a partir dos históricos Git. Os caminhos dos exemplos são pastas do computador de quem executar os comandos.
 
 Na raiz de uma cópia atualizada deste repositório, comece com um único projeto:
 

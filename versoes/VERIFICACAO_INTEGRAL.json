@@ -1,0 +1,15 @@
+{
+  "situacao": "verificacao_integral_aprovada",
+  "amostras": 10162,
+  "arquivos_versoes": 40648,
+  "pacotes": 61,
+  "bytes_versoes_verificados": 1279920984,
+  "verificacoes": [
+    "SHA256 dos pacotes",
+    "CRC durante leitura ZIP",
+    "SHA256 e blob Git de cada versao",
+    "metadados e quatro versoes por amostra",
+    "blobs das licencas incluidas"
+  ],
+  "analise_OA_executada": false
+}

@@ -1,0 +1,14 @@
+{
+  "amostras": 10162,
+  "arquivos_versoes": 40648,
+  "projetos_com_amostras": 34,
+  "bytes_sem_compressao": 1279920984,
+  "maior_amostra_bytes": 30332547,
+  "filtro_temporal": null,
+  "codigo_javascript_executado": false,
+  "zip_files": 61,
+  "bytes_zip": 337066328,
+  "segundos_exportacao": 76.67,
+  "situacao": "exportado_e_verificado_integralmente",
+  "relatorio_verificacao": "VERIFICACAO_INTEGRAL.json"
+}
