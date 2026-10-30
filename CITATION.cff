@@ -1,0 +1,24 @@
+cff-version: "1.2.0"
+message: "Se utilizar este dataset em sua pesquisa, cite-o com os metadados abaixo e reconheça as fontes originais."
+type: dataset
+title: "Dataset de cenários de merge em JavaScript"
+authors:
+  - family-names: "Almeida"
+    given-names: "Priscila"
+version: "1.0.0"
+date-released: "2026-10-30"
+url: "https://github.com/PriscilaDevGirl/MinerreporJavascriptMerge"
+abstract: >-
+  Dataset de autoria de Priscila Almeida, composto por 10.162 pares
+  arquivo-merge validados estruturalmente, provenientes de 3.532 merges
+  distintos. Foram processados 43 projetos JavaScript, dos quais 34
+  forneceram amostras. A mineração foi inspirada no artigo Semantic conflict
+  detection via dynamic analysis, de Amanda Moraes, Paulo Borba e Léuson Da
+  Silva, e contou com apoio acadêmico do professor Paulo Borba para estudos
+  de análise dinâmica e fluxo de dados. Esta versão documenta somente a
+  mineração e a validação estrutural, sem resultados de OA ou dataflow.
+keywords:
+  - "mineração de software"
+  - "JavaScript"
+  - "cenários de merge"
+  - "dataset"

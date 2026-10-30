@@ -4,6 +4,14 @@ Metadados e resultados de mineração de arquivos JavaScript alterados pelas dua
 
 O escopo deste repositório é **mineração e validação estrutural**. Não foram executadas análises de overriding assignments (OA), dataflow ou classificação de conflitos semânticos.
 
+## Autoria e apoio acadêmico
+
+**Autora do dataset: Priscila Almeida.** A autoria registrada refere-se à construção, seleção, organização e documentação deste conjunto de pesquisa, respeitados os direitos sobre os materiais de origem.
+
+A mineração foi realizada para estudos de **análise dinâmica e fluxo de dados (dataflow)**, inspirada no artigo de **Amanda Moraes, Paulo Borba e Léuson Da Silva**, com **apoio acadêmico do professor Paulo Borba**.
+
+A atribuição de autoria, os agradecimentos e o alcance dos direitos estão detalhados em [AUTORIA.md](AUTORIA.md) e [DIREITOS_E_LICENCAS.md](DIREITOS_E_LICENCAS.md).
+
 ## Conjunto publicado
 
 | Indicador | Quantidade |
@@ -70,6 +78,14 @@ python .\scripts\extrair_versoes.py --csv .\dataset\project_cases.csv --reposito
 O script exporta `base.js`, `left.js`, `right.js`, `merge.js` e metadados, preservando os bytes originais. Esse comando não executa JavaScript nem gera o mapa das contribuições para OA.
 
 ## Referência
+
+Para citar este dataset:
+
+> ALMEIDA, Priscila. **Dataset de cenários de merge em JavaScript**. Versão 1.0.0. 2026. Dataset. Disponível em: https://github.com/PriscilaDevGirl/MinerreporJavascriptMerge.
+
+Os metadados de citação estão em [CITATION.cff](CITATION.cff), e a entrada BibTeX está em [CITATION.bib](CITATION.bib).
+
+### Artigo que inspirou a mineração
 
 MORAES, Amanda; BORBA, Paulo; DA SILVA, Léuson. **Semantic conflict detection via dynamic analysis**. SBLP, 2024. [DOI 10.5753/sblp.2024.3471](https://doi.org/10.5753/sblp.2024.3471). O procedimento de coleta está na seção 4.2.1 e na Figura 4.
 
