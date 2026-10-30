@@ -1,0 +1,7 @@
+﻿merge,file,reason
+ca0ae0ee70bd876f81286220bb96673e0478156a,test/locale/keys.test.js,nonunique_or_degenerate_base
+ca0ae0ee70bd876f81286220bb96673e0478156a,src/locale/hr.js,nonunique_or_degenerate_base
+ca0ae0ee70bd876f81286220bb96673e0478156a,src/locale/ko.js,nonunique_or_degenerate_base
+ca0ae0ee70bd876f81286220bb96673e0478156a,src/locale/ca.js,nonunique_or_degenerate_base
+ca0ae0ee70bd876f81286220bb96673e0478156a,src/locale/fr.js,nonunique_or_degenerate_base
+e28c56a7c0491a429de37249042c0e7f2d6b7d8a,src/locale/en.js,right_status_not_M|right_file_missing|merge_file_missing

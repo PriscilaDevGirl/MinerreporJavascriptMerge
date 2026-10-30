@@ -1,0 +1,4 @@
+﻿project,merge commit,ancestor commit,left parent commit,right parent commit,file path,repo url
+h5bp__html5-boilerplate,d8e28f2f2e85df640661c795a2a555b48666914d,8074f1584fffd73f20f2782fc78558521ec4c310,2dd8ad97f89db4f483bcae2949ad98407c3fbd3d,2727fa23a6715080f120fd41792a6a8c1b112125,js/libs/jquery-1.7.0.min.js,https://github.com/h5bp/html5-boilerplate
+h5bp__html5-boilerplate,70769f5e9a8a8b9387d8b8a740c3a2e6ee4d9656,9182b30a3aafab51d71e6a11e9b687c14bd6bbcf,30e0d834bd29a64a45c703fb2d9adff9e62db90c,ac1f74ede250f7a41ead335386996fc91b856c37,js/dd_belatedpng.js,https://github.com/h5bp/html5-boilerplate
+h5bp__html5-boilerplate,70769f5e9a8a8b9387d8b8a740c3a2e6ee4d9656,9182b30a3aafab51d71e6a11e9b687c14bd6bbcf,30e0d834bd29a64a45c703fb2d9adff9e62db90c,ac1f74ede250f7a41ead335386996fc91b856c37,js/plugins.js,https://github.com/h5bp/html5-boilerplate

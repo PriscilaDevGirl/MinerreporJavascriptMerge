@@ -1,0 +1,4 @@
+project;merge commit;file path;left additions;left deletions;left changes;right additions;right deletions;right changes;repo url
+airbnb__javascript;0839881fd27b226844a757b8b2eaf8c42abf0ea6;packages/eslint-config-airbnb/rules/best-practices.js;[];[];[16, 112, 111];[];[];[3];null
+airbnb__javascript;eea8efe55130ae24e04e824cd0186e10e30c983d;packages/eslint-config-airbnb/rules/react.js;[57, 58, 59];[];[];[51, 52, 53];[];[];null
+airbnb__javascript;326100a7b9bf9493372e5fb0ca5940420ae8bddf;packages/eslint-config-airbnb/rules/style.js;[];[];[26, 27];[];[];[98, 99, 100];null

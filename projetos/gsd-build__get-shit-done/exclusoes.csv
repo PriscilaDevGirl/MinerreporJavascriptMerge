@@ -1,0 +1,7 @@
+﻿merge,file,reason
+2d8e3b479159026ee13ec7c76e7b972110d3a2cc,hooks/gsd-workflow-guard.js,nonunique_or_degenerate_base
+2d8e3b479159026ee13ec7c76e7b972110d3a2cc,hooks/gsd-statusline.js,nonunique_or_degenerate_base
+2d8e3b479159026ee13ec7c76e7b972110d3a2cc,bin/install.js,nonunique_or_degenerate_base
+2d8e3b479159026ee13ec7c76e7b972110d3a2cc,hooks/gsd-context-monitor.js,nonunique_or_degenerate_base
+2d8e3b479159026ee13ec7c76e7b972110d3a2cc,hooks/gsd-check-update.js,nonunique_or_degenerate_base
+2d8e3b479159026ee13ec7c76e7b972110d3a2cc,scripts/build-hooks.js,nonunique_or_degenerate_base

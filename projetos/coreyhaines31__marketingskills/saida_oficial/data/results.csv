@@ -1,0 +1,156 @@
+project;merge commit;file path;left additions;left deletions;left changes;right additions;right deletions;right changes;repo url
+coreyhaines31__marketingskills;df0f93aeae31519a5fbbca8708696b14e16890a9;tools/clis/dub.js;[16, 17, 18, 19, 168, 12, 13, 14, 15];[];[27];[106, 107, 108, 109];[];[];null
+coreyhaines31__marketingskills;d474f3d5e9b7348b4c6ccca1587e3c2a74fd2a97;tools/clis/postmark.js;[154, 155, 156];[];[];[128, 129, 123, 124, 125, 126, 127];[];[374];null
+coreyhaines31__marketingskills;644cbfcef7b0d039593b68b42f7b419b7dbfa963;tools/clis/google-ads.js;[38, 39];[];[64, 96, 65, 66, 67, 68, 69, 6, 70, 71, 135, 72, 73, 74, 47, 148, 63, 95];[3];[];[9, 59];null
+coreyhaines31__marketingskills;62329a57c6ed8acea2e13513e6910a14f846b1b3;tools/clis/amplitude.js;[183, 184];[];[129, 130, 131, 132, 133, 134, 198, 135, 136, 200, 137, 138, 139, 140, 141, 142, 145, 178, 179, 180];[];[];[97, 98, 99, 100, 103, 183, 104];null
+coreyhaines31__marketingskills;36b9eed7adf13daccca0b0124791b631ebca0715;tools/clis/resend.js;[16, 17, 18, 20, 408, 12, 13, 14, 15];[];[25];[272, 270, 271];[];[];null
+coreyhaines31__marketingskills;324c368e3b394df4b0deb52a1844839bb39ff68e;tools/clis/amplitude.js;[16, 17, 18, 19, 20, 21, 220, 14, 15];[];[53, 31];[96, 97, 98, 99, 90, 91, 92, 93, 94, 95];[];[132, 133, 134, 120, 136, 121, 137, 122];null
+coreyhaines31__marketingskills;7cc1a4a8a83fb6b0c188374f71c407c85054e0f5;tools/clis/ahrefs.js;[3];[];[51, 7];[64, 65, 66, 67, 69, 53, 54, 55, 56, 57, 58, 59, 60, 62];[];[192, 81, 195, 196, 122];null
+coreyhaines31__marketingskills;866b52700316188e5ee4f0a08d1f303877c89c1a;tools/clis/sendgrid.js;[3];[];[52, 7];[68];[66];[196, 59, 60, 61];null
+coreyhaines31__marketingskills;e2aef52f36bab67697a11e3dee3414def832ba8c;tools/clis/sendgrid.js;[16, 17, 18, 19, 219, 12, 13, 14, 15];[];[27];[74, 75, 76, 77];[];[];null
+coreyhaines31__marketingskills;797a8f85c58afeafe6bad8673c33dc0813fbb334;tools/clis/resend.js;[16, 17, 18, 20, 279, 280, 411, 12, 13, 14, 15];[];[25];[293, 294, 295, 296];[];[];null
+coreyhaines31__marketingskills;ccff4a325481a072ebac2a824a6822ea1eb85041;tools/clis/kit.js;[16, 17, 18, 242, 19, 20, 13, 14, 15];[];[66];[115, 87, 88, 89, 90, 91, 93];[];[];null
+coreyhaines31__marketingskills;c4712ecbc8e8f50607b607a9c562789ae33e736a;tools/clis/calendly.js;[3];[];[53, 7];[207];[];[248, 185, 186, 187, 188, 189, 190];null
+coreyhaines31__marketingskills;4376c00b479adca7c69b39534a31baccdbc39991;tools/clis/apollo.js;[20];[12];[112, 113, 22, 14];[52, 53, 54, 55, 56, 57, 58, 59, 60, 62];[];[136, 141, 79];null
+coreyhaines31__marketingskills;7c546537e7e30c0bb6dba553d276548ef205356d;tools/clis/postmark.js;[3, 67, 68, 69, 70, 71, 72, 73];[];[64, 97, 373, 7, 126, 127];[174, 175];[];[359, 171, 172];null
+coreyhaines31__marketingskills;370515e9e6006ca810459c2b822c981b817b1223;tools/clis/amplitude.js;[3];[];[9, 77];[48, 49, 50, 51, 52, 53, 54, 55, 56];[];[180];null
+coreyhaines31__marketingskills;bbb9cce68bd925bf322c549b490ea89d291d1518;tools/clis/klaviyo.js;[208, 3];[];[192, 8, 56, 187, 188, 189, 190, 191];[];[];[190, 191];null
+coreyhaines31__marketingskills;bbb9cce68bd925bf322c549b490ea89d291d1518;tools/clis/postmark.js;[3, 67, 68, 69, 70, 71, 72, 73];[];[64, 97, 372, 7];[];[];[118, 119];null
+coreyhaines31__marketingskills;5ed7cf645473bc26f53d245b2e01720b447df139;tools/clis/customer-io.js;[];[];[132, 117, 8, 9, 10, 11, 123, 12, 13, 14, 111];[121, 122, 123, 124, 125, 126, 127];[];[200, 138];null
+coreyhaines31__marketingskills;e54e8cedce45d4d0c42c16ed21502c13cd16b06f;tools/clis/resend.js;[64, 65, 66, 67, 68, 21, 69, 71, 73, 74, 63];[];[371, 378, 12, 92, 252, 14];[64, 65, 66, 67, 68, 69, 70, 71, 72, 74, 76, 78, 62, 63];[];[144, 146, 371, 103, 104, 264, 122, 316, 349];null
+coreyhaines31__marketingskills;20d9a72fd7ba36e548f7d76c48d5cecd770fbe9e;tools/clis/ga4.js;[3];[];[9, 73];[69, 70, 71, 72, 73, 74];[7];[];null
+coreyhaines31__marketingskills;17f4319c3c14be2c43232cf762fa797ba5a942e8;tools/clis/dataforseo.js;[3];[];[55, 8];[];[];[71, 72, 73, 74, 75, 76, 77, 78, 80, 81, 82, 84, 86, 88];null
+coreyhaines31__marketingskills;3cf409b614e9c30b5c05c5b1a9f4b4b14704417a;tools/clis/hunter.js;[];[];[16, 17, 19, 13, 14];[64, 54, 55, 56, 57, 58, 59, 60, 61];[];[214, 230, 216, 217, 252, 78];null
+coreyhaines31__marketingskills;ecb246f1d6988ce633f30d2344cd6e0d46cfa37b;tools/clis/intercom.js;[16, 17, 18, 19, 12, 428, 13, 14, 15];[];[27];[384, 385, 383];[];[];null
+coreyhaines31__marketingskills;1bd1b5a619f79180705376231ba2a31b2dad35b6;tools/clis/customer-io.js;[];[];[112, 118, 106, 127];[];[];[8, 9, 10, 11, 12, 13, 14];null
+coreyhaines31__marketingskills;c038ff7f9d507284e6778ecd1f0f1ebedaa4831c;tools/clis/customer-io.js;[32, 33, 26, 27, 28, 29, 30, 31, 223];[];[67, 44];[96, 97, 98, 99, 100, 102, 95];[];[146, 197, 118];null
+coreyhaines31__marketingskills;a6766174bd0df24cdff021cbd69487488c82c435;tools/clis/google-ads.js;[20];[17];[23, 10, 11];[85, 86, 87, 88, 89, 90, 191];[];[];null
+coreyhaines31__marketingskills;43af192423b4bf4f848b8571f44fe79025d7faa6;tools/clis/mixpanel.js;[273, 24, 25, 26, 27, 28, 29, 142, 31];[];[8, 9, 105, 10, 11, 12, 13, 45, 14, 15, 16, 17, 84];[135, 136, 137];[];[];null
+coreyhaines31__marketingskills;119e0dc76db3dcba6fe7c0b64aeb0b2bb6b27bf0;tools/clis/activecampaign.js;[32];[];[];[64, 65, 66, 67, 68, 69, 72, 74, 107, 145, 146, 147, 148, 149, 150, 152, 63];[];[440, 441];null
+coreyhaines31__marketingskills;119e0dc76db3dcba6fe7c0b64aeb0b2bb6b27bf0;tools/clis/github-prospects.js;[261];[];[];[];[];[92];null
+coreyhaines31__marketingskills;119e0dc76db3dcba6fe7c0b64aeb0b2bb6b27bf0;tools/clis/google-ads.js;[30];[];[];[20, 85, 86, 87, 88, 89, 90, 191];[17];[23, 10, 11];null
+coreyhaines31__marketingskills;119e0dc76db3dcba6fe7c0b64aeb0b2bb6b27bf0;tools/clis/postmark.js;[36];[];[];[128, 129, 161, 162, 123, 124, 125, 126, 127];[];[377];null
+coreyhaines31__marketingskills;119e0dc76db3dcba6fe7c0b64aeb0b2bb6b27bf0;tools/clis/exa.js;[25];[];[];[128, 129, 130, 132, 133, 73, 74, 75, 76, 77, 78, 79, 80, 81, 83, 84, 85, 86, 88, 91, 92, 93, 94, 95, 97, 98, 100, 102, 104, 112, 113, 114, 115, 116, 117, 118, 119, 121, 122, 123, 124];[];[139, 190, 191];null
+coreyhaines31__marketingskills;119e0dc76db3dcba6fe7c0b64aeb0b2bb6b27bf0;tools/clis/plausible.js;[25];[];[];[84, 85, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79];[];[176, 262, 119, 263, 264, 220, 191];null
+coreyhaines31__marketingskills;119e0dc76db3dcba6fe7c0b64aeb0b2bb6b27bf0;tools/clis/paddle.js;[27];[];[];[208, 209, 210, 212, 213, 214, 206, 207];[];[385];null
+coreyhaines31__marketingskills;119e0dc76db3dcba6fe7c0b64aeb0b2bb6b27bf0;tools/clis/segment.js;[30];[];[];[96, 97, 98, 99, 100, 102, 104, 105, 106, 107, 109, 207, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95];[118];[121, 138, 203, 204, 205, 142, 158, 127];null
+coreyhaines31__marketingskills;119e0dc76db3dcba6fe7c0b64aeb0b2bb6b27bf0;tools/clis/firecrawl.js;[24];[];[];[];[];[128, 129, 130, 142, 143, 115, 116, 117, 118, 119, 120, 121, 123, 124, 126, 127];null
+coreyhaines31__marketingskills;119e0dc76db3dcba6fe7c0b64aeb0b2bb6b27bf0;tools/clis/partnerstack.js;[28];[];[];[246, 247, 169, 173];[253];[369, 371, 375, 249, 250, 251, 347, 252, 348, 175];null
+coreyhaines31__marketingskills;119e0dc76db3dcba6fe7c0b64aeb0b2bb6b27bf0;tools/clis/adobe-analytics.js;[29];[];[];[];[];[67];null
+coreyhaines31__marketingskills;119e0dc76db3dcba6fe7c0b64aeb0b2bb6b27bf0;tools/clis/outreach.js;[26];[];[];[64, 65, 66, 67, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 80, 82, 214, 57, 58, 59, 60, 61, 62, 63];[];[181, 120, 121, 90];null
+coreyhaines31__marketingskills;c90a4f0eef520f07893f43234b02888322697d49;tools/clis/semrush.js;[3];[];[68, 7];[];[39];[12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 34, 35, 36, 38, 41, 42, 43, 44];null
+coreyhaines31__marketingskills;1460ec32a5f05069c4cb57c6681acbe52478a266;tools/clis/exa.js;[96, 97, 98, 100, 101, 103, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 94, 158, 95];[];[];[97, 98, 100, 102, 104, 73, 74, 75, 76, 77, 78, 79, 80, 81, 83, 84, 85, 86, 88, 91, 92, 93, 94, 95];[];[115, 166];null
+coreyhaines31__marketingskills;ef83b92c8589e1129f5037d814f6c81f6da192e5;tools/clis/resend.js;[64, 65, 66, 67, 68, 69, 71, 72, 73, 74, 75, 76, 77, 78, 80, 81, 82, 84, 21, 86, 90, 91, 63];[];[384, 390, 135, 329, 362, 12, 109, 269, 14, 116, 117, 277, 157, 159, 383];[25];[];[];null
+coreyhaines31__marketingskills;b87c73db9a8f359f404d9876bfb35c614ae00ef9;tools/clis/segment.js;[16, 17, 18, 226, 19, 20, 21, 41, 14, 15];[];[33, 58];[112, 113, 114, 115, 116, 133, 149, 118];[];[];null
+coreyhaines31__marketingskills;be7d111350e8c30fa548bbcd377264fb4377c1a1;tools/clis/meta-ads.js;[3];[];[55, 8];[];[];[58, 59, 60];null
+coreyhaines31__marketingskills;9279024e243323bdc8f07ca3ebf721c3b9500ebc;tools/clis/beehiiv.js;[];[];[126];[];[165];[163, 164, 238];null
+coreyhaines31__marketingskills;6d18965b8fb29040017a29f51104103e366f643a;tools/clis/outreach.js;[3];[];[54, 7];[];[];[167, 168, 202];null
+coreyhaines31__marketingskills;d3bb78aec17d74f466c2f52dd706708fa926975d;.github/scripts/sync-skills.js;[29, 30];[];[22];[];[];[126];null
+coreyhaines31__marketingskills;88509af72bddc5ce918ba25ffd0d81f953f2310e;tools/clis/onesignal.js;[3];[];[8, 60, 13];[];[];[176, 178, 167, 168, 169, 185, 170, 155, 171, 172, 173, 175];null
+coreyhaines31__marketingskills;2c702d72b9c1196ba7e786f6fb693a6ccad0b169;tools/clis/intercom.js;[];[];[225, 226, 227, 228, 229, 230, 104, 232, 105, 106, 107, 108, 236, 112, 113, 114, 115, 404, 213, 405, 214, 219, 412];[];[];[359];null
+coreyhaines31__marketingskills;5ee757579f12a25b6328a0fa9828d1da1a901918;tools/clis/dub.js;[];[];[128, 129, 130, 138];[];[];[67, 147];null
+coreyhaines31__marketingskills;ea462fe50e92b6f485d5781b6e0eb1f370134b36;tools/clis/segment.js;[3];[];[81, 9];[];[];[165, 159];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/activecampaign.js;[32];[];[];[455];[];[];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/google-ads.js;[30];[];[];[201];[];[];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/rankparse.js;[25];[];[];[191];[];[];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/g2.js;[25];[];[];[181];[];[];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/postmark.js;[36];[];[];[389];[];[];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/coupler.js;[24];[];[];[168];[];[];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/exa.js;[25];[];[];[199];[];[];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/plausible.js;[25];[];[];[270];[];[];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/paddle.js;[27];[];[];[396];[];[];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/calendly.js;[25];[];[];[254];[];[];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/segment.js;[30];[];[];[213];[];[];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/clearbit.js;[25];[];[];[158];[];[];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/mention-me.js;[25];[];[];[156];[];[];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/firecrawl.js;[24];[];[];[149];[];[];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/partnerstack.js;[28];[];[];[381];[];[];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/clay.js;[25];[];[];[154];[];[];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/typeform.js;[25];[];[];[267];[];[];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/adobe-analytics.js;[29];[];[];[156];[];[];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/outreach.js;[26];[];[];[241];[];[];null
+coreyhaines31__marketingskills;a69ff9e15b5a7fbd76fa4fecea9a1876eb47187c;tools/clis/meta-ads.js;[27];[];[];[178];[];[];null
+coreyhaines31__marketingskills;9cbfa616dd1c9320cb4e98303cf968d4255fbaf3;.github/scripts/sync-skills.js;[];[];[22];[29, 30];[];[];null
+coreyhaines31__marketingskills;0c92defbc067ffcd2880b6ab4b205523946282cd;tools/clis/onesignal.js;[18, 19, 20, 21, 22, 23, 24, 264, 25];[];[38];[72, 73, 74, 75];[];[];null
+coreyhaines31__marketingskills;a9847a0818c57878c5c11bb1adc6912037ea5347;tools/clis/pendo.js;[16, 17, 18, 19, 232, 12, 13, 14, 15];[];[28];[125, 126, 127];[];[];null
+coreyhaines31__marketingskills;58d848ff64e42b8fb04ccd86c951899c6b4d84b1;tools/clis/github-prospects.js;[];[];[133, 134, 135, 136, 137, 138, 139];[55, 120, 121, 122];[];[67];null
+coreyhaines31__marketingskills;1fb75cb3092144ec7c9c19033d80812d99d37e45;tools/clis/mailchimp.js;[3];[];[6, 56, 11];[119];[94];[];null
+coreyhaines31__marketingskills;60e03695cbeb90786f67f74249728f86841aa8c4;tools/clis/close.js;[16, 17, 18, 19, 266, 12, 13, 14, 15];[];[28];[];[];[167, 168, 169, 170, 171];null
+coreyhaines31__marketingskills;c8463f606b4cd5f64d265297ebe7ab2379441def;tools/clis/pendo.js;[161, 162, 163, 164, 165];[];[212];[];[];[117, 138];null
+coreyhaines31__marketingskills;057b3dd06b0cc86cc95a991850b3ffcc151b5b05;tools/clis/mixpanel.js;[48, 49, 51, 7, 40, 41, 42, 43, 44, 45, 46, 47];[];[244, 53, 245, 54, 246, 12, 13];[31];[];[34, 35, 36];null
+coreyhaines31__marketingskills;6e12256839cc5f89eac6eddd2cfb280853497da9;tools/clis/typeform.js;[3];[];[53, 7];[];[];[96, 91, 92, 93, 94, 95];null
+coreyhaines31__marketingskills;15b6d54b15e1186682e1d1623fc8939c314b582c;tools/clis/paddle.js;[3];[];[55, 9];[];[];[288, 289, 290, 291, 292, 376, 287];null
+coreyhaines31__marketingskills;68cd0d8a61d42001c52b54eb22a520bc39e28128;tools/clis/ga4.js;[163, 164, 165];[];[];[106, 107, 108, 77, 109, 78, 110, 79, 111, 80, 112, 81, 82, 114, 115, 84, 117];[];[203];null
+coreyhaines31__marketingskills;58d497d0d5dae90e5b21706d3959ad76e10964ab;tools/clis/outreach.js;[3];[];[54, 7, 168, 169, 203];[124, 125, 126];[];[194];null
+coreyhaines31__marketingskills;0d31c2ac5d3419ba4dcf50e49283721727ffda3a;tools/clis/intercom.js;[];[];[112, 113, 114, 115, 403, 104, 105, 106, 107, 395, 108, 396];[];[];[210, 211, 212, 213, 214, 199, 215, 200, 216, 218, 205, 222];null
+coreyhaines31__marketingskills;d1d5de4d9f2dbcc07c27c94250735b99919eca20;tools/clis/snov.js;[];[];[126];[130, 131, 259, 132, 260, 133, 76, 77, 78, 79, 80, 81, 82, 84, 85, 86, 87, 89, 90, 92, 94, 95, 96, 97, 98, 99, 101, 103, 104, 105, 106, 107, 108, 110, 112, 113, 114, 115, 116, 118, 121, 123];[];[32, 148, 44, 30];null
+coreyhaines31__marketingskills;822dc6ae4be98243f0cf1f794e862a32dc889db7;tools/clis/savvycal.js;[152, 153];[];[160, 162, 163, 164, 214, 156, 157];[];[];[97, 115, 87, 103, 72, 109, 125, 78];null
+coreyhaines31__marketingskills;7536a03bf9d17b5f29cfd940d7bbef756c438dec;tools/clis/plausible.js;[3];[];[53, 7];[64, 66, 68, 77, 55, 56, 57, 58, 59, 60, 61, 62, 63];[71];[251];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/mailchimp.js;[215];[];[];[];[];[128, 129, 130, 131, 132, 133, 135, 136, 137];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/ahrefs.js;[207];[];[];[];[];[96, 98, 195, 196, 110];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/apollo.js;[137];[];[];[20, 52, 53, 54, 55, 56, 57, 58, 59, 60, 62];[12];[22, 137, 123, 124, 14, 142, 79];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/hunter.js;[244];[];[];[65, 55, 56, 57, 58, 59, 60, 61, 62];[];[16, 17, 19, 215, 231, 217, 218, 13, 253, 14, 79];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/savvycal.js;[218];[];[];[152, 153];[];[160, 97, 162, 163, 164, 103, 72, 109, 78, 115, 214, 87, 156, 125, 157];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/activecampaign.js;[430];[];[];[64, 65, 66, 67, 68, 69, 72, 74, 107, 145, 146, 147, 148, 149, 150, 152, 63];[];[440, 441];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/kit.js;[227];[];[];[];[];[41, 42, 43, 44, 45];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/wistia.js;[251];[];[];[];[];[13, 15];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/tiktok-ads.js;[188];[];[];[35, 36, 37, 38, 29];[];[33, 31];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/close.js;[227];[];[];[64, 66, 67, 68, 69, 70, 71, 72, 73, 75, 57, 58, 59, 60, 61, 62, 63];[];[242, 85, 230, 168, 169, 170, 171, 173];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/buffer.js;[255];[];[];[80, 81, 82, 77, 78, 79];[];[168, 169, 170];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/google-ads.js;[194];[];[];[20, 85, 86, 87, 88, 89, 90, 191];[17];[23, 10, 11];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/beehiiv.js;[247];[];[];[];[165];[163, 164, 126, 238];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/brevo.js;[363];[];[];[64, 56, 57, 58, 59, 60, 61, 62];[];[121, 107, 367];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/demio.js;[144];[];[];[];[];[124];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/mixpanel.js;[243];[];[];[32, 7, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 54];[];[35, 36, 37, 247, 56, 248, 57, 249, 12, 13];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/crossbeam.js;[188];[];[];[122];[];[96, 97, 101, 102, 103, 104, 106, 110, 111, 112, 114, 115, 179, 180, 95];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/ga4.js;[190];[];[];[106, 107, 108, 77, 109, 78, 110, 79, 111, 80, 112, 81, 82, 114, 115, 84, 117, 184, 185];[];[206];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/google-search-console.js;[161];[];[];[96, 69, 70, 71, 72, 25, 73, 26, 27, 75, 77];[149];[162, 163, 164, 93];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/lemlist.js;[216];[];[];[];[];[188];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/postmark.js;[379];[];[];[128, 129, 161, 162, 123, 124, 125, 126, 127];[];[377];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/sendgrid.js;[208];[];[];[];[];[199, 120, 125];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/pendo.js;[216];[];[];[161, 162, 163, 164, 165];[];[212, 117, 138];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/snov.js;[232];[];[];[130, 131, 259, 132, 260, 133, 76, 77, 78, 79, 80, 81, 82, 84, 85, 86, 87, 89, 90, 92, 94, 95, 96, 97, 98, 99, 101, 103, 104, 105, 106, 107, 108, 110, 112, 113, 114, 115, 116, 118, 121, 123];[];[32, 178, 148, 44, 30];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/onesignal.js;[245];[];[];[];[103];[72, 73, 74, 75, 76, 108, 77, 109, 78, 79, 80, 81, 82, 83, 243, 20, 84, 85, 86, 87, 88, 89, 90, 95];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/resend.js;[373];[];[];[64, 65, 66, 67, 68, 69, 70, 72, 73, 74, 75, 76, 77, 78, 79, 81, 82, 83, 21, 85, 87, 26, 91, 92];[];[160, 384, 385, 391, 136, 330, 363, 12, 14, 110, 270, 117, 118, 278, 158];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/hotjar.js;[162];[];[];[100];[];[96, 97, 98, 6, 7, 95];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/intercom.js;[394];[];[];[];[];[225, 226, 227, 228, 229, 230, 104, 232, 105, 106, 107, 108, 236, 112, 113, 114, 115, 404, 213, 405, 214, 219, 412, 382];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/zoominfo.js;[218];[];[];[];[];[9, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 47, 48];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/exa.js;[142];[];[];[128, 129, 130, 132, 133, 73, 74, 75, 76, 77, 78, 79, 80, 81, 83, 84, 85, 86, 88, 91, 92, 93, 94, 95, 97, 98, 100, 102, 104, 112, 113, 114, 115, 116, 117, 118, 119, 121, 122, 123, 124];[];[139, 190, 191];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/plausible.js;[258];[];[];[84, 85, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79];[];[176, 262, 119, 263, 264, 220, 191];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/paddle.js;[386];[];[];[208, 209, 210, 212, 213, 214, 206, 207];[];[385];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/tolt.js;[148];[];[];[80, 67, 55, 56, 57, 58, 59, 60, 77, 62, 78, 79];[];[65, 130, 5, 70, 71, 135, 72, 73, 74, 138, 144, 145, 82, 146, 83, 147, 85, 86, 87, 89, 93, 94, 95, 98, 100, 101, 102, 106, 109, 115, 116, 117, 121, 122, 123, 126];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/rewardful.js;[159];[];[];[64, 65, 66, 68, 70, 14, 58, 27, 59, 60, 61, 62, 63];[];[16, 22, 150, 151, 24, 168, 153, 169, 78];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/segment.js;[187];[];[];[96, 97, 98, 99, 100, 102, 104, 105, 106, 107, 109, 207, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95];[118];[121, 138, 203, 204, 205, 142, 158, 127];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/klaviyo.js;[351];[];[];[116];[];[192, 193, 353, 194, 188, 189, 190, 191];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/dataforseo.js;[265];[];[];[27];[];[32, 33, 34, 35, 36, 30, 31];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/instantly.js;[265];[];[];[66, 3, 67, 4, 68, 5, 69, 71, 72, 265, 75, 76, 15, 79, 16, 80, 17, 81, 18, 82, 19, 83, 20, 21, 22, 23, 24, 25];[];[261, 263, 8, 268, 269, 270, 271, 272, 275, 276, 277, 280, 281, 283, 28, 284, 29, 285, 286, 31, 289, 35, 87, 95, 96, 98, 99, 100, 101, 102, 103, 105, 107, 109, 111, 113, 116, 123, 124, 125, 126, 127, 128, 129, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 149, 152, 153, 154, 155, 156, 157, 159, 160, 162, 164, 165, 168, 169, 170, 172, 174, 175, 177, 178, 179, 181, 182, 183, 187, 194, 198, 200, 201, 202, 205, 211, 212, 214, 215, 217, 218, 219, 221, 222, 226, 227, 228, 229, 231, 232, 235, 242, 245, 246, 247, 248];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/firecrawl.js;[133];[];[];[];[];[128, 129, 130, 142, 143, 115, 116, 117, 118, 119, 120, 121, 123, 124, 126, 127];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/livestorm.js;[287];[];[];[];[];[173, 14, 174, 175];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/supermetrics.js;[164];[];[];[72, 73, 74, 122, 75, 123, 28, 76, 124, 125, 126];[];[129, 161, 99, 132, 164, 5, 138, 141, 112, 17, 81, 83, 20, 84, 85, 86];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/amplitude.js;[187];[];[];[187, 188];[];[133, 134, 135, 136, 137, 201, 138, 202, 139, 140, 204, 141, 142, 143, 144, 146, 149, 97, 98, 99, 100, 103, 104, 182, 183, 184];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/partnerstack.js;[377];[];[];[246, 247, 169, 173];[253];[369, 371, 375, 249, 250, 251, 347, 252, 348, 175];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/similarweb.js;[209];[];[];[];[];[16, 17, 18, 130, 131, 5, 12, 13, 14];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/keywords-everywhere.js;[180];[];[];[64, 65, 66, 68, 70, 57, 58, 59, 60, 61, 62, 63];[];[181, 87, 91];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/adobe-analytics.js;[156];[];[];[];[];[67];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/zapier.js;[157];[];[];[38, 8];[6];[];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/optimizely.js;[228];[];[];[];[];[139];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/airops.js;[158];[];[];[61];[11];[96, 65, 97, 98, 5, 71, 104, 118, 87, 119, 88, 120, 125, 94, 95];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/customer-io.js;[200];[];[];[];[];[128, 129, 130, 8, 9, 10, 11, 139, 12, 13, 205, 14, 111, 143, 117, 123, 124, 126, 127];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/outreach.js;[212];[];[];[64, 65, 66, 67, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 80, 82, 214, 57, 58, 59, 60, 61, 62, 63];[];[181, 120, 121, 90];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/linkedin-ads.js;[180];[];[];[65, 34, 66, 3, 67, 4, 68, 5, 6, 70, 71, 72, 73, 74, 76, 77, 79, 80, 81, 23, 62, 63];[];[128, 129, 130, 131, 132, 9, 137, 10, 138, 139, 140, 141, 17, 20, 21, 85, 152, 153, 26, 94, 164, 165, 168, 105, 106, 180, 181, 118, 182, 119, 183, 184, 185, 122, 186, 187, 188, 189, 126, 190, 127];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/trustpilot.js;[271];[];[];[197, 8];[];[224, 36, 199, 200, 201, 202, 203, 44, 45, 205, 219, 60, 61];null
+coreyhaines31__marketingskills;856f398f3570a0e99afd2f817045d90a14abe150;tools/clis/dub.js;[153];[];[];[];[];[128, 129, 130, 67, 151, 138];null
+coreyhaines31__marketingskills;877a5e110461ebd8d7787ca3956db943b21785e2;tools/clis/rewardful.js;[3];[];[53, 7];[];[];[80, 81, 82, 87, 78, 79];null
+coreyhaines31__marketingskills;fdacd772d15410ac734b0fc9d7143ca68d0fcdc3;tools/clis/close.js;[];[];[147, 148, 149, 150, 151, 152, 219];[64, 66, 67, 68, 69, 70, 71, 72, 73, 75, 57, 58, 59, 60, 61, 62, 63];[];[225, 85];null
+coreyhaines31__marketingskills;a6bd75bdb432b36c42f86449ae8ca0f274748bf9;tools/clis/amplitude.js;[169, 170];[];[164, 165, 166, 167, 186];[];[];[129, 130, 194, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 145];null
+coreyhaines31__marketingskills;7489de23a2ba669d4a2cab4876e0ee7634ad06d3;tools/clis/google-ads.js;[3];[];[9, 61];[16, 17, 18, 19, 20, 6, 15];[];[22, 26];null
+coreyhaines31__marketingskills;5d5d5abfc27860a60bcd2a7224b7a0d3cea246ed;tools/clis/google-search-console.js;[25, 26, 27];[138];[];[66, 67, 68, 69, 70, 71, 72, 74, 93];[];[162, 163, 164, 90];null
+coreyhaines31__marketingskills;d9322dcbba2e3677c38a9fddbd34036580acfccc;tools/clis/klaviyo.js;[116];[];[];[];[];[192, 186, 346, 187, 188, 189, 190, 191];null
+coreyhaines31__marketingskills;4c11abe14f499edefc0a496806da8196612d5d70;tools/clis/klaviyo.js;[3];[];[8, 56];[207];[];[186, 187, 188, 189, 190, 191];null
+coreyhaines31__marketingskills;55cc6c9c7d1ab58dbe083371a8ecbc5664b57ac9;tools/clis/segment.js;[84, 85, 86, 87, 88, 89, 90, 91];[98];[101, 118, 183, 184, 185];[96, 97, 98, 99, 101, 103, 202, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94];[];[120, 136, 153];null
+coreyhaines31__marketingskills;92f30c88488e3f7e4e9097984218d6ac6fb4b092;tools/clis/resend.js;[3, 55, 56, 57, 58, 59, 60, 61];[];[52, 7, 186, 362];[];[];[210, 211, 213];null
+coreyhaines31__marketingskills;bf1414ec578803d565067f4675335000efb2479e;tools/clis/rewardful.js;[27, 14];[];[16, 22, 24, 138, 139, 156, 141];[64, 66, 68, 166, 56, 57, 58, 59, 60, 61, 62, 63];[];[76];null
+coreyhaines31__marketingskills;7fd4da0bcf39f03e871a980c1d74a0dde7140696;tools/clis/tiktok-ads.js;[3];[];[8, 56];[];[];[149, 150, 151, 152, 125];null
+coreyhaines31__marketingskills;43d8bc375db019459f1cc7d3ae9e30092e4ff9ea;tools/clis/resend.js;[3];[];[52, 7];[54, 55, 56, 57, 58, 59, 60];[];[185, 361];null
+coreyhaines31__marketingskills;43d8bc375db019459f1cc7d3ae9e30092e4ff9ea;tools/clis/beehiiv.js;[3];[];[53, 7];[55, 56, 57, 58, 59, 60, 61];[];[109, 110];null
+coreyhaines31__marketingskills;43d8bc375db019459f1cc7d3ae9e30092e4ff9ea;tools/clis/postmark.js;[3];[];[64, 7];[66, 67, 68, 69, 70, 71, 72];[];[96, 371];null

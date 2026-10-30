@@ -1,0 +1,21 @@
+diff --git a/src/main/util/MergeHelper.groovy b/src/main/util/MergeHelper.groovy
+index c5071ad..e240a9b 100644
+--- a/src/main/util/MergeHelper.groovy
++++ b/src/main/util/MergeHelper.groovy
+@@ -31,10 +31,14 @@ class MergeHelper {
+     }
+ 
+     static public Process returnToMaster(Project project) {
+-        Process resetChanges = ProcessRunner.runProcess(project.getPath(), 'git', 'reset', '--hard')
++        Process resetChanges = ProcessRunner.runProcess(project.getPath(), 'git', 'reset', '--hard', '--quiet')
++        resetChanges.getInputStream().eachLine { line -> /* drain child output before waiting */ }
+         resetChanges.waitFor()
+ 
+-        return ProcessRunner.runProcess(project.getPath(), 'git', 'checkout', 'master')
++        Process checkout = ProcessRunner.runProcess(project.getPath(), 'git', 'checkout', '--quiet', 'master')
++        checkout.getInputStream().eachLine { line -> /* drain child output before waiting */ }
++        checkout.waitFor()
++        return checkout
+     }
+ 
+     static public boolean areParentContributionsPreserved (Project project, MergeCommit mergeCommit, String fileName, String localRevisionFiles) {

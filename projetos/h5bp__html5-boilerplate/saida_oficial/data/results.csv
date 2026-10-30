@@ -1,0 +1,4 @@
+project;merge commit;file path;left additions;left deletions;left changes;right additions;right deletions;right changes;repo url
+h5bp__html5-boilerplate;d8e28f2f2e85df640661c795a2a555b48666914d;js/libs/jquery-1.7.0.min.js;[];[];[1, 2, 3, 4];[];[];[1, 2, 3, 4];null
+h5bp__html5-boilerplate;70769f5e9a8a8b9387d8b8a740c3a2e6ee4d9656;js/dd_belatedpng.js;[];[];[];[];[];[];null
+h5bp__html5-boilerplate;70769f5e9a8a8b9387d8b8a740c3a2e6ee4d9656;js/plugins.js;[];[];[];[];[];[];null

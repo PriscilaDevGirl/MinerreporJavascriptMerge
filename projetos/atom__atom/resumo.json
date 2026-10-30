@@ -1,0 +1,8 @@
+{
+  "raw_pairs": 381,
+  "validated_pairs": 333,
+  "validated_merges": 199,
+  "excluded_pairs": 48,
+  "frozen_head": "1c3bd35ce238dc0491def9e1780d04748d8e18af",
+  "framework_error_lines": 0
+}

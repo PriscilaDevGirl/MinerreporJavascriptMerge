@@ -1,0 +1,12 @@
+{
+  "cwd": "C:\\Mineraai\\mining-runtime\\miningframework",
+  "argv": [
+    "C:\\Mineraai\\mining-runtime\\gradle-runtime\\bin\\gradle.bat",
+    "--offline",
+    "--no-daemon",
+    "--console=plain",
+    "-Dorg.gradle.jvmargs=-Xmx512m -Djava.io.tmpdir=C:/Mineraai/mining-runtime/tmp",
+    "run",
+    "--args=--injector injectors.LocalDynamicAnalysisJsModule --extension .js --keep-projects --threads 1 --random-seed 1 --max-commits-per-project 2147483647 --project-commit-hashes-file C:/Mineraai/mining-runtime/coleta-lote68-sem-data-20261029-1532/Leaflet__Leaflet/commits.csv C:/Mineraai/mining-runtime/coleta-lote68-sem-data-20261029-1532/Leaflet__Leaflet/projects.csv C:/Mineraai/mining-runtime/coleta-lote68-sem-data-20261029-1532/Leaflet__Leaflet/output"
+  ]
+}

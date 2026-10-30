@@ -1,0 +1,9 @@
+{
+  "name": "minerador-github",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/graphql": "^9.0.5"
+  }
+}

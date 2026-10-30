@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+node_modules/
+repositorios/
+resultados_locais/
+runtime/
+tmp/
+.env
+.env.*
+~$*
