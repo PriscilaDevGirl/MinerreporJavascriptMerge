@@ -1,0 +1,31 @@
+{
+  "data": "2026-10-30",
+  "tipo": "verificacao_operacional_com_clone_novo_independente",
+  "project": "expressjs__express",
+  "repo_url": "https://github.com/expressjs/express",
+  "sample_id": "c57aa36fd77238789b2430c5e2e9175e33fdbba37ecbcd522afbe1a7864ac45a",
+  "file_path": "examples/downloads/app.js",
+  "merge_commit": "04ce039ba4effc7df680e8dbe06ae56d6a987abe",
+  "origem_do_historico": "clone completo obtido diretamente do GitHub, sem objetos compartilhados com os clones anteriores",
+  "arquivos": {
+    "base.js": {
+      "bytes": 1358,
+      "sha256": "264f2f21898422ae363d922198b8b94279e737cd6ff7e8b84ec2aef09681ad0d"
+    },
+    "left.js": {
+      "bytes": 1356,
+      "sha256": "93183c27c805d0d8900b09dae8a719b759287a61ecd33be25a4a27efe84797b1"
+    },
+    "right.js": {
+      "bytes": 1356,
+      "sha256": "93183c27c805d0d8900b09dae8a719b759287a61ecd33be25a4a27efe84797b1"
+    },
+    "merge.js": {
+      "bytes": 1356,
+      "sha256": "93183c27c805d0d8900b09dae8a719b759287a61ecd33be25a4a27efe84797b1"
+    }
+  },
+  "javascript_executado": false,
+  "OA_executada": false,
+  "alcance": "uma amostra do Express; nao representa validacao de execucao de todo o dataset"
+}

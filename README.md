@@ -4,6 +4,8 @@ Metadados e resultados de mineração de arquivos JavaScript alterados pelas dua
 
 O escopo deste repositório é **mineração e validação estrutural**. Não foram executadas análises de overriding assignments (OA), dataflow ou classificação de conflitos semânticos.
 
+> **Vai continuar a análise em outro computador?** Não é necessário acessar o computador da autora. Baixe este dataset, obtenha os históricos públicos dos projetos e recupere as quatro versões pelos SHAs registrados. O passo a passo está no [guia para recuperar Base, Left, Right e Merge](docs/RECUPERAR_QUATRO_VERSOES.md).
+
 ## Autoria e apoio acadêmico
 
 **Autora do dataset: Priscila Almeida.** A autoria registrada refere-se à construção, seleção, organização e documentação deste conjunto de pesquisa, respeitados os direitos sobre os materiais de origem.
@@ -50,6 +52,7 @@ Os 32 candidatos não clonados pertencem à etapa anterior. As listas individuai
 
 ## Documentação
 
+- [Começar em outro computador e recuperar as quatro versões](docs/RECUPERAR_QUATRO_VERSOES.md)
 - [Metodologia da construção](docs/METODOLOGIA.md)
 - [Ferramentas e adaptações](docs/FERRAMENTAS.md)
 - [Execução pelo PowerShell](docs/EXECUCAO.md)
@@ -69,13 +72,21 @@ O verificador confere os hashes dos arquivos publicados e as contagens do datase
 
 ## Recuperação dos arquivos
 
-O dataset publica metadados, não cópias completas dos históricos Git nem uma exportação em massa das quatro versões. Para recuperar uma amostra dos clones locais:
+O [guia de recuperação](docs/RECUPERAR_QUATRO_VERSOES.md#exemplo-real-com-links-para-as-quatro-versões) contém um exemplo com links para abrir Base, Left, Right e Merge diretamente no GitHub.
+
+O dataset publica metadados, não cópias completas dos históricos Git nem uma exportação em massa das quatro versões. Os caminhos dos exemplos são pastas do computador de quem executar os comandos; não apontam para um acesso remoto ao notebook da autora.
+
+Na raiz de uma cópia atualizada deste repositório, comece com um único projeto:
 
 ```powershell
-python .\scripts\extrair_versoes.py --csv .\dataset\project_cases.csv --repositorios C:\Mineraai\repositorios --saida C:\Mineraai\amostras_extraidas --projeto expressjs__express --limite 1
+$repositorios = Join-Path (Get-Location) 'repositorios'
+$amostras = Join-Path (Get-Location) 'amostras_extraidas'
+
+.\scripts\clonar_projetos_processados.ps1 -Destino $repositorios -Projeto expressjs__express
+python .\scripts\extrair_versoes.py --csv .\dataset\project_cases.csv --repositorios $repositorios --saida $amostras --projeto expressjs__express --limite 1
 ```
 
-O script exporta `base.js`, `left.js`, `right.js`, `merge.js` e metadados, preservando os bytes originais. Esse comando não executa JavaScript nem gera o mapa das contribuições para OA.
+O script exporta `base.js`, `left.js`, `right.js`, `merge.js` e `metadados.json`, preservando os bytes originais. Esse comando não executa JavaScript nem gera o mapa das contribuições para OA. O [guia completo](docs/RECUPERAR_QUATRO_VERSOES.md) explica como obter os 34 projetos com amostras e como conferir a extração.
 
 ## Referência
 
